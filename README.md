@@ -11,3 +11,5 @@
 ## 3) SignUp App - Html, Css, Bootstrap, Javascript, Nodejs, Expressjs, NPM(body-parser,request), Nodemon, API.
 
 ![Screenshot from 2021-04-29 01-30-50](https://user-images.githubusercontent.com/53205251/116454885-a3ae6280-a88a-11eb-83af-1578a33e27bb.png)
+
+* You must enter all 3 boxes to register successfully, if you are missing any one of the 3 boxes, it will turn to a failure page and you need to press the button 'try again' to return register page.
