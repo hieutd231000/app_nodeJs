@@ -1,0 +1,11 @@
+{
+  "name": "calculator-server",
+  "version": "1.0.0",
+  "description": "My calculator server",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hieu",
+  "license": "ISC"
+}
